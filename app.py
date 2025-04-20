@@ -5,7 +5,7 @@ Created on Sun Apr 20 11:22:18 2025
 
 @author: peerachet
 """
-import streamlis as st
+import streamlit as st
 import numpy as np
 import pickle
 
